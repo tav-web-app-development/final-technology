@@ -1,0 +1,23 @@
+.edit-task-form {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  }
+  
+  .edit-task-form input,
+  .edit-task-form textarea {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .edit-task-form button {
+    padding: 10px;
+    border: none;
+    background-color: #282c34;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
